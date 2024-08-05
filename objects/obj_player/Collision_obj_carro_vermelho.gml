@@ -1,0 +1,2 @@
+global.colidiu = true;
+
